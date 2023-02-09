@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\bin\Debug\net5.0\FinalTask.deps.json
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\bin\Debug\net5.0\FinalTask.dll
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\bin\Debug\net5.0\ref\FinalTask.dll
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\bin\Debug\net5.0\FinalTask.pdb
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\obj\Debug\net5.0\FinalTask.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\obj\Debug\net5.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\obj\Debug\net5.0\FinalTask.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\obj\Debug\net5.0\FinalTask.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\obj\Debug\net5.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\obj\Debug\net5.0\FinalTask.dll
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\obj\Debug\net5.0\ref\FinalTask.dll
+C:\Users\Alex\Desktop\Study\Coursera\geekbrains_oleg\FinalTask\FinalTask\obj\Debug\net5.0\FinalTask.pdb
